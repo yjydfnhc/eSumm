@@ -1,0 +1,171 @@
+=================================================
+The DBpedia-5*10 etNum>=20:
+http://dbpedia.org/ontology/Agent	ceNum:	1501158	seed:	1463577513169
+offsets:	10	[803890, 1123829, 34066, 613117, 1352225, 443743, 674218, 995103, 1152658, 1216469]
+offset:	803890,	euri:	http://dbpedia.org/resource/Ludwigsburg_University
+offset:	1123829,	euri:	http://dbpedia.org/resource/Hagar_Wilde
+offset:	34066,	euri:	http://dbpedia.org/resource/E._K._Mawlong
+offset:	613117,	euri:	http://dbpedia.org/resource/3WAY_FM
+offset:	1352225,	euri:	http://dbpedia.org/resource/Dallas_Keuchel
+offset:	443743,	euri:	http://dbpedia.org/resource/Finn_Schiander
+offset:	674218,	euri:	http://dbpedia.org/resource/Andrew_Kippis
+offset:	995103,	euri:	http://dbpedia.org/resource/Roderick_Carr
+offset:	1152658,	euri:	http://dbpedia.org/resource/Adrian_Griffin
+offset:	1216469,	euri:	http://dbpedia.org/resource/Anthony_Beaumont-Dark
+http://dbpedia.org/ontology/Location	ceNum:	742527	seed:	1463577957594
+offsets:	10	[545734, 338432, 145181, 253019, 656852, 342960, 192244, 485662, 443304, 27633]
+offset:	545734,	euri:	http://dbpedia.org/resource/Uelsby
+offset:	338432,	euri:	http://dbpedia.org/resource/Yayoidai_Station
+offset:	145181,	euri:	http://dbpedia.org/resource/Wernshausen
+offset:	253019,	euri:	http://dbpedia.org/resource/Chitita
+offset:	656852,	euri:	http://dbpedia.org/resource/Reamer_Barn
+offset:	342960,	euri:	http://dbpedia.org/resource/Phong_Thạnh_Tây
+offset:	192244,	euri:	http://dbpedia.org/resource/Wehlaberg
+offset:	485662,	euri:	http://dbpedia.org/resource/Richmond–Petersburg_Turnpike
+offset:	443304,	euri:	http://dbpedia.org/resource/Akalwadi
+offset:	27633,	euri:	http://dbpedia.org/resource/Kuleh_Bayan
+http://dbpedia.org/ontology/Work	ceNum:	399116	seed:	1463578191204
+offsets:	10	[228011, 325217, 97307, 229497, 378440, 150142, 19558, 3015, 144676, 11464]
+offset:	228011,	euri:	http://dbpedia.org/resource/The_Crowd_Snores
+offset:	325217,	euri:	http://dbpedia.org/resource/Sting_Me
+offset:	97307,	euri:	http://dbpedia.org/resource/Touch_of_Death_(1961_film)
+offset:	229497,	euri:	http://dbpedia.org/resource/Sketchy_EP_1
+offset:	378440,	euri:	http://dbpedia.org/resource/Foppt_den_Dämon!
+offset:	150142,	euri:	http://dbpedia.org/resource/Simon_(2004_film)
+offset:	19558,	euri:	http://dbpedia.org/resource/Sky_(Faye_Wong_album)
+offset:	3015,	euri:	http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)
+offset:	144676,	euri:	http://dbpedia.org/resource/King_of_the_Mountain_(film)
+offset:	11464,	euri:	http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)
+http://dbpedia.org/ontology/Species	ceNum:	165120	seed:	1463578286436
+offsets:	10	[102597, 85905, 72949, 113974, 106494, 85071, 10743, 93783, 114249, 85901]
+offset:	102597,	euri:	http://dbpedia.org/resource/Ovophis
+offset:	85905,	euri:	http://dbpedia.org/resource/Siamese_mud_carp
+offset:	72949,	euri:	http://dbpedia.org/resource/Lygodium_microphyllum
+offset:	113974,	euri:	http://dbpedia.org/resource/Lepiota_helveola
+offset:	106494,	euri:	http://dbpedia.org/resource/Trachelipus_dimorphus
+offset:	85071,	euri:	http://dbpedia.org/resource/Rubus_arizonensis
+offset:	10743,	euri:	http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros
+offset:	93783,	euri:	http://dbpedia.org/resource/African_grey_hornbill
+offset:	114249,	euri:	http://dbpedia.org/resource/Bornean_mountain_ground_squirrel
+offset:	85901,	euri:	http://dbpedia.org/resource/Enallagma_truncatum
+http://dbpedia.org/ontology/Event	ceNum:	33709	seed:	1463578314436
+offsets:	10	[32621, 30250, 31421, 4000, 28554, 16078, 8571, 7491, 1395, 45]
+offset:	32621,	euri:	http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final
+offset:	30250,	euri:	http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's
+offset:	31421,	euri:	http://dbpedia.org/resource/Battle_of_Bregalnica
+offset:	4000,	euri:	http://dbpedia.org/resource/Burgery_ambush
+offset:	28554,	euri:	http://dbpedia.org/resource/2009–10_Swiss_Cup
+offset:	16078,	euri:	http://dbpedia.org/resource/Massacre_on_34th_Street
+offset:	8571,	euri:	http://dbpedia.org/resource/2012–13_UEFA_Champions_League
+offset:	7491,	euri:	http://dbpedia.org/resource/Battle_of_Rottofreddo
+offset:	1395,	euri:	http://dbpedia.org/resource/2011_Kor_Royal_Cup
+offset:	45,	euri:	http://dbpedia.org/resource/2011_Sparta_Prague_Open
+
+=================================================
+The DBpedia-5*10 etNum>=20 and etNum-rdf:type-dc:subject>=10 :
+http://dbpedia.org/ontology/Agent	ceNum:	1162326	seed:	1463579765449
+offsets:	10	[183947, 910285, 248648, 528160, 1055536, 274191, 65169, 167704, 1013528, 531150]
+offset:	183947,	euri:	http://dbpedia.org/resource/Fabrice_Gautrat
+offset:	910285,	euri:	http://dbpedia.org/resource/Najmadin_Shukr_Rauf
+offset:	248648,	euri:	http://dbpedia.org/resource/Hiroshi_Mori_(writer)
+offset:	528160,	euri:	http://dbpedia.org/resource/Cindy_Mackey
+offset:	1055536,	euri:	http://dbpedia.org/resource/Edmund_Smith_Conklin
+offset:	274191,	euri:	http://dbpedia.org/resource/Ashot_I_of_Iberia
+offset:	65169,	euri:	http://dbpedia.org/resource/Svyatoslav_Tanasov
+offset:	167704,	euri:	http://dbpedia.org/resource/Storme_Warren
+offset:	1013528,	euri:	http://dbpedia.org/resource/William_Anthony_Hughes
+offset:	531150,	euri:	http://dbpedia.org/resource/Momchil_Tsvetanov
+http://dbpedia.org/ontology/Location	ceNum:	574426	seed:	1463580504452
+offsets:	10	[124943, 10031, 19482, 46667, 151686, 262101, 381253, 365022, 263930, 83166]
+offset:	124943,	euri:	http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa
+offset:	10031,	euri:	http://dbpedia.org/resource/Darreh_Dang
+offset:	19482,	euri:	http://dbpedia.org/resource/Zarudcze
+offset:	46667,	euri:	http://dbpedia.org/resource/Muławki
+offset:	151686,	euri:	http://dbpedia.org/resource/Sauxillanges
+offset:	262101,	euri:	http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)
+offset:	381253,	euri:	http://dbpedia.org/resource/Kings_Ripton
+offset:	365022,	euri:	http://dbpedia.org/resource/Kotumachagi
+offset:	263930,	euri:	http://dbpedia.org/resource/Stara_Bučka
+offset:	83166,	euri:	http://dbpedia.org/resource/Saint-Raphaël,_Var
+http://dbpedia.org/ontology/Work	ceNum:	260293	seed:	1463580821680
+offsets:	10	[251083, 132652, 111702, 114197, 84634, 147193, 110143, 56655, 210111, 176183]
+offset:	251083,	euri:	http://dbpedia.org/resource/Drama_City
+offset:	132652,	euri:	http://dbpedia.org/resource/Politiken
+offset:	111702,	euri:	http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)
+offset:	114197,	euri:	http://dbpedia.org/resource/Terrorist_Threats
+offset:	84634,	euri:	http://dbpedia.org/resource/Wide_Awake_Drunk
+offset:	147193,	euri:	http://dbpedia.org/resource/392_(album)
+offset:	110143,	euri:	http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me
+offset:	56655,	euri:	http://dbpedia.org/resource/Time_(Dave_Clark_album)
+offset:	210111,	euri:	http://dbpedia.org/resource/Rebel_Love_Song
+offset:	176183,	euri:	http://dbpedia.org/resource/If_(Glasvegas_song)
+http://dbpedia.org/ontology/Species	ceNum:	123911	seed:	1463581001876
+offsets:	10	[34613, 37957, 81160, 72292, 20957, 80876, 64799, 14740, 110581, 68885]
+offset:	34613,	euri:	http://dbpedia.org/resource/Melaleuca_sheathiana
+offset:	37957,	euri:	http://dbpedia.org/resource/Amphisbaena_ridleyi
+offset:	81160,	euri:	http://dbpedia.org/resource/Hilarographa_excellens
+offset:	72292,	euri:	http://dbpedia.org/resource/Bryotropha_plantariella
+offset:	20957,	euri:	http://dbpedia.org/resource/Inverted_repeat-lacking_clade
+offset:	80876,	euri:	http://dbpedia.org/resource/Balanites
+offset:	64799,	euri:	http://dbpedia.org/resource/Thaia_saprophytica
+offset:	14740,	euri:	http://dbpedia.org/resource/Stemonoporus_laevifolius
+offset:	110581,	euri:	http://dbpedia.org/resource/Pseudanos_trimaculatus
+offset:	68885,	euri:	http://dbpedia.org/resource/Trichoscypha_cavalliensis
+http://dbpedia.org/ontology/Event	ceNum:	18726	seed:	1463581057003
+offsets:	10	[593, 5007, 18354, 14918, 17140, 11992, 10678, 13200, 15078, 7371]
+offset:	593,	euri:	http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal
+offset:	5007,	euri:	http://dbpedia.org/resource/2013_Slovak_Cup_Final
+offset:	18354,	euri:	http://dbpedia.org/resource/Battle_of_Cepeda_(1820)
+offset:	14918,	euri:	http://dbpedia.org/resource/Battle_on_the_Elster
+offset:	17140,	euri:	http://dbpedia.org/resource/1960_Glover_Trophy
+offset:	11992,	euri:	http://dbpedia.org/resource/Operation_Hump
+offset:	10678,	euri:	http://dbpedia.org/resource/2010_Belgian_Super_Cup
+offset:	13200,	euri:	http://dbpedia.org/resource/1967_Italian_Grand_Prix
+offset:	15078,	euri:	http://dbpedia.org/resource/Battle_of_Calicut_(1502)
+offset:	7371,	euri:	http://dbpedia.org/resource/2008_Copa_del_Rey_Final
+=================================================
+The LinkedMDB-2*20 etNum-owl:sameAs>=20:
+http://data.linkedmdb.org/resource/movie/film	ceNum:	20188	seed:	1463581079359
+offsets:	20	[12047, 10560, 10129, 5404, 13004, 18331, 8111, 14547, 18426, 19475, 16395, 13852, 8451, 19566, 16434, 15122, 11125, 7272, 17522, 5408]
+offset:	12047,	euri:	http://data.linkedmdb.org/resource/film/14299
+offset:	10560,	euri:	http://data.linkedmdb.org/resource/film/41573
+offset:	10129,	euri:	http://data.linkedmdb.org/resource/film/12710
+offset:	5404,	euri:	http://data.linkedmdb.org/resource/film/2108
+offset:	13004,	euri:	http://data.linkedmdb.org/resource/film/2572
+offset:	18331,	euri:	http://data.linkedmdb.org/resource/film/7963
+offset:	8111,	euri:	http://data.linkedmdb.org/resource/film/6213
+offset:	14547,	euri:	http://data.linkedmdb.org/resource/film/6191
+offset:	18426,	euri:	http://data.linkedmdb.org/resource/film/14438
+offset:	19475,	euri:	http://data.linkedmdb.org/resource/film/6468
+offset:	16395,	euri:	http://data.linkedmdb.org/resource/film/41408
+offset:	13852,	euri:	http://data.linkedmdb.org/resource/film/12398
+offset:	8451,	euri:	http://data.linkedmdb.org/resource/film/4501
+offset:	19566,	euri:	http://data.linkedmdb.org/resource/film/2381
+offset:	16434,	euri:	http://data.linkedmdb.org/resource/film/8446
+offset:	15122,	euri:	http://data.linkedmdb.org/resource/film/7348
+offset:	11125,	euri:	http://data.linkedmdb.org/resource/film/5232
+offset:	7272,	euri:	http://data.linkedmdb.org/resource/film/70866
+offset:	17522,	euri:	http://data.linkedmdb.org/resource/film/41006
+offset:	5408,	euri:	http://data.linkedmdb.org/resource/film/4053
+http://xmlns.com/foaf/0.1/Person	ceNum:	4697	seed:	1463581103496
+offsets:	20	[2640, 608, 953, 4608, 3906, 2260, 919, 1123, 1978, 3080, 4629, 1898, 3205, 1414, 3551, 1073, 3308, 1079, 4219, 2668]
+offset:	2640,	euri:	http://data.linkedmdb.org/resource/actor/34577
+offset:	608,	euri:	http://data.linkedmdb.org/resource/actor/32500
+offset:	953,	euri:	http://data.linkedmdb.org/resource/actor/67878
+offset:	4608,	euri:	http://data.linkedmdb.org/resource/actor/38225
+offset:	3906,	euri:	http://data.linkedmdb.org/resource/director/416
+offset:	2260,	euri:	http://data.linkedmdb.org/resource/actor/33137
+offset:	919,	euri:	http://data.linkedmdb.org/resource/actor/38875
+offset:	1123,	euri:	http://data.linkedmdb.org/resource/actor/29369
+offset:	1978,	euri:	http://data.linkedmdb.org/resource/actor/39725
+offset:	3080,	euri:	http://data.linkedmdb.org/resource/director/10100
+offset:	4629,	euri:	http://data.linkedmdb.org/resource/actor/43265
+offset:	1898,	euri:	http://data.linkedmdb.org/resource/actor/32648
+offset:	3205,	euri:	http://data.linkedmdb.org/resource/actor/36141
+offset:	1414,	euri:	http://data.linkedmdb.org/resource/actor/31707
+offset:	3551,	euri:	http://data.linkedmdb.org/resource/actor/52869
+offset:	1073,	euri:	http://data.linkedmdb.org/resource/actor/30569
+offset:	3308,	euri:	http://data.linkedmdb.org/resource/director/10846
+offset:	1079,	euri:	http://data.linkedmdb.org/resource/actor/30598
+offset:	4219,	euri:	http://data.linkedmdb.org/resource/director/8669
+offset:	2668,	euri:	http://data.linkedmdb.org/resource/actor/62725
